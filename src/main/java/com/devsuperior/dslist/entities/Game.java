@@ -20,7 +20,6 @@ public class Game {
     private String imgUrl;
     @Column(columnDefinition = "TEXT")//Para gerar Texto, pois o varchar só vai até 255
     private String shortDescription;
-
     @Column(columnDefinition = "TEXT")//Para gerar Texto, pois o varchar só vai até 255
     private String longDescription;
 
