@@ -21,6 +21,11 @@ A aplicação consiste em organizar uma coleção de games.
 - Maven
 - Docker
 
+# Cloud
+- projeto foi implantado em cloud com esteira de CI/CD
+- Cloud utilizada [Railway](https://railway.app/).
+![Image_railway](https://github.com/fabiosimplis/DEV-dslist/blob/main/assets/railway.png)
+
 
 # Como executar o projeto
 
